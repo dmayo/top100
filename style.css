@@ -1,0 +1,20 @@
+.highlight {
+  color:red;
+}
+#playerContainer{
+	height: 720px;
+	box-shadow: 0px 0px 8px 0px #000000;
+	background-color: black;
+}
+#player{
+	display:none;
+}
+body{
+	background-color: #2A2929;
+	margin-top:20px;
+}
+.container{
+	width: 1028px;
+	margin: 0 auto;
+	/*border: 1px solid white;*/
+}
